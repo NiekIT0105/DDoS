@@ -1,0 +1,3 @@
+sudo docker pull gcr.io/fuck-russia-342819/nowarddos:latest
+
+sudo docker run --rm gcr.io/fuck-russia-342819/nowarddos:latest 300
